@@ -1,2 +1,4 @@
 
 “Git es un sistema de control de versiones ideado por Linus Torvalds.”
+
+"Git també se pot gastar en el InteliJ"
